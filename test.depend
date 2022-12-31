@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672256954 source:d:\informatica\test\main.cpp
+	<bits/stdc++.h>
+
+1670067998 source:d:\informatica\test\a.cpp
+	"b.h"
+	"a.h"
+
+1670068017 d:\informatica\test\b.h
+
+1670067998 d:\informatica\test\a.h
+
